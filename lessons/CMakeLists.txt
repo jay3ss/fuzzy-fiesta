@@ -7,6 +7,7 @@ add_executable(lesson9-strings lesson9-strings.cpp)
 add_executable(lesson10-io lesson10-io.cpp)
 add_executable(lesson15-linked-lists lesson15-linked-lists.cpp)
 add_executable(lesson16-recursion lesson16-recursion.cpp)
+add_executable(lesson18-binary-trees lesson18-binary-trees.cpp)
 
 # My own attempts
 add_executable(linked-list-test linked-list-test.cpp)
